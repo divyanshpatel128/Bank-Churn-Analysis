@@ -3,7 +3,11 @@
 Welcome to the **Bank Churn Analysis** project!  
 This Power BI dashboard is designed to help stakeholders and decision-makers understand key churn metrics and customer behavior using interactive visualizations.
 
-![Bank Churn Analysis Dashboard]https://app.powerbi.com/groups/53d29151-6d50-4bfe-8a0b-d4fce9a7655c/reports/562eeca5-d606-478a-bc2e-146cb2de2b55/9a75d2903924ad3fc11d?experience=power-bi
+# Bank Churn Analysis Dashboard
+![image](https://github.com/user-attachments/assets/6cdc9e41-6567-4d7a-82ef-1f0c950cc3e6)
+
+# Bank Churn Analysis Dashboard Link 
+https://app.powerbi.com/groups/53d29151-6d50-4bfe-8a0b-d4fce9a7655c/reports/562eeca5-d606-478a-bc2e-146cb2de2b55/9a75d2903924ad3fc11d?experience=power-bi
 
 ---
 
